@@ -1,5 +1,5 @@
-# Meu portifolio de analise de dados
-# 🎯 Portfólio de Análise de Dados - Maria Clara Mariano Gomes
+
+# 📈 Portfólio de Análise de Dados - Maria Clara Mariano Gomes
 
 Bem-vindo(a)! 👋  
 Sou Analista de Dados com experiência em **Power BI, SQL e Python**, focada em transformar dados em insights estratégicos e automatizar processos de análise.
